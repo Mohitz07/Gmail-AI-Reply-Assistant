@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Smart Email Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Smart Email Assistant</h1>
+
+    <label for="emailContent">Paste Received Email:</label>
+    <textarea id="emailContent" rows="8" placeholder="Enter email here..."></textarea>
+
+    <label for="tone">Select Tone:</label>
+    <select id="tone">
+      <option value="formal">Formal</option>
+      <option value="friendly">Friendly</option>
+      <option value="concise">Concise</option>
+    </select>
+
+    <button onclick="generateEmail()">Generate Reply</button>
+
+    <h2>Suggested Reply</h2>
+    <div id="responseBox"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
