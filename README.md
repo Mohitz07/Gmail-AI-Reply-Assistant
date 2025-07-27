@@ -4,6 +4,16 @@ Gmail-AI-Reply-Assistant is a smart email reply assistant that leverages artific
 
 ---
 
+# User Interface of Web as well as Chrome extension
+**1. Reply with just a click**
+<img width="1919" height="868" alt="Screenshot 2025-07-27 114200" src="https://github.com/user-attachments/assets/1667a8dd-f8c7-4a89-ab9f-1966c466b2d3" />
+
+**2. Change tone of writing**
+<img width="1919" height="863" alt="Screenshot 2025-07-27 113502" src="https://github.com/user-attachments/assets/19bf7fae-0b3b-4717-915d-5db505bb63c7" />
+
+**3. Also as web page**
+<img width="1919" height="863" alt="Screenshot 2025-07-27 114939" src="https://github.com/user-attachments/assets/3bbe07ed-36e1-4589-88cf-41950efb2b1c" />
+
 ## Tech Stack
 
 | Technology | Purpose                                                                                   |
@@ -29,16 +39,6 @@ Gmail-AI-Reply-Assistant is a smart email reply assistant that leverages artific
 ## Project Overview
 
 This project integrates AI capabilities to assist users in composing email replies within Gmail more effectively. By analyzing the context of received emails, the assistant suggests well-crafted responses, reducing email-related hassle and increasing communication efficiency. With the addition of a Chrome extension, users can access these AI-powered suggestions directly from their Gmail inbox, making the experience seamless and maximally efficient. The combination of a robust Java backend and a dynamic JavaScript-driven frontend and extension ensures a powerful, user-friendly tool that scales well and remains maintainable.
-
----
-
-## Getting Started
-
-To run this project locally or use the Chrome extension:
-
-1. Clone the repository.
-2. Follow the setup instructions for the backend and frontend [add setup instructions].
-3. To use the Chrome extension, load it as an unpacked extension in Chrome and follow the integration instructions [add details as needed].
 
 ---
 
